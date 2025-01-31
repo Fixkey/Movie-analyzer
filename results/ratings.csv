@@ -1,0 +1,708 @@
+id,title,type,genres,imdb_rating,numVotes,releaseYear,filmweb_rating,douban_rating
+tt0111161,The Shawshank Redemption,movie,Drama,9.3,2991460.0,1994.0,8.8,9.5
+tt0468569,The Dark Knight,movie,"Action, Crime, Drama",9.0,2971515.0,2008.0,8.0,8.6
+tt0137523,Fight Club,movie,Drama,8.8,2418682.0,1999.0,8.3,9.1
+tt0109830,Forrest Gump,movie,"Drama, Romance",8.8,2340761.0,1994.0,8.5,9.3
+tt0110912,Pulp Fiction,movie,"Crime, Drama",8.9,2295044.0,1994.0,8.3,8.8
+tt0133093,The Matrix,movie,"Action, Sci-Fi",8.7,2122369.0,1999.0,7.6,8.5
+tt0068646,The Godfather,movie,"Crime, Drama",9.2,2087913.0,1972.0,8.6,9.2
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,movie,"Adventure, Drama, Fantasy",8.9,2076787.0,2001.0,8.0,8.8
+tt0167260,The Lord of the Rings: The Return of the King,movie,"Adventure, Drama, Fantasy",9.0,2047542.0,2003.0,8.4,8.9
+tt1345836,The Dark Knight Rises,movie,"Action, Drama, Thriller",8.4,1886553.0,2012.0,7.7,9.75
+tt0114369,Se7en,movie,"Crime, Drama, Mystery",8.6,1871819.0,1995.0,8.3,8.7
+tt0167261,The Lord of the Rings: The Two Towers,movie,"Adventure, Drama, Fantasy",8.8,1846141.0,2002.0,8.3,8.8
+tt1853728,Django Unchained,movie,"Comedy, Drama, Western",8.5,1757363.0,2012.0,8.3,9.3
+tt0172495,Gladiator,movie,"Action, Adventure, Drama",8.5,1719103.0,2000.0,8.1,8.2
+tt0361748,Inglourious Basterds,movie,"Adventure, Drama, War",8.4,1647915.0,2009.0,8.0,8.3
+tt0102926,The Silence of the Lambs,movie,"Crime, Drama, Thriller",8.6,1606181.0,1991.0,8.2,8.5
+tt0120815,Saving Private Ryan,movie,"Drama, War",8.6,1546120.0,1998.0,8.1,8.6
+tt1130884,Shutter Island,movie,"Drama, Mystery, Thriller",8.2,1519227.0,2010.0,8.2,7.5
+tt0108052,Schindler's List,movie,"Biography, Drama, History",9.0,1499309.0,1993.0,8.4,9.3
+tt0482571,The Prestige,movie,"Drama, Mystery, Sci-Fi",8.5,1490182.0,2006.0,8.1,8.4
+tt0407887,The Departed,movie,"Crime, Drama, Thriller",8.5,1465937.0,2006.0,8.0,6.8
+tt0120689,The Green Mile,movie,"Crime, Drama, Fantasy",8.6,1460291.0,1999.0,8.6,8.6
+tt0499549,Avatar,movie,"Action, Adventure, Fantasy",7.9,1416362.0,2009.0,7.4,9.2
+tt0209144,Memento,movie,"Mystery, Thriller",8.4,1359814.0,2000.0,7.6,8.5
+tt0088763,Back to the Future,movie,"Adventure, Comedy, Sci-Fi",8.5,1355091.0,1985.0,7.5,8.2
+tt0120338,Titanic,movie,"Drama, Romance",7.9,1321811.0,1997.0,7.3,8.6
+tt0099685,Goodfellas,movie,"Biography, Crime, Drama",8.7,1303107.0,1990.0,8.3,8.3
+tt4154756,Avengers: Infinity War,movie,"Action, Adventure, Sci-Fi",8.4,1260121.0,2018.0,8.1,9.35
+tt0120382,The Truman Show,movie,"Comedy, Drama",8.2,1251905.0,1998.0,7.4,8.8
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,movie,"Action, Adventure, Fantasy",8.1,1247743.0,2003.0,7.7,8.2
+tt0910970,WALL·E,movie,"Adventure, Animation, Family",8.4,1241755.0,2008.0,7.6,9.2
+tt0169547,American Beauty,movie,Drama,8.3,1236363.0,1999.0,7.6,8.2
+tt0120586,American History X,movie,"Crime, Drama",8.5,1217270.0,1998.0,8.2,8.5
+tt0434409,V for Vendetta,movie,"Action, Drama, Sci-Fi",8.1,1204119.0,2005.0,7.4,8.1
+tt0110357,The Lion King,movie,"Adventure, Animation, Drama",8.5,1184287.0,1994.0,7.3,8.6
+tt0114814,The Usual Suspects,movie,"Crime, Drama, Mystery",8.5,1175040.0,1995.0,7.7,8.6
+tt1049413,Up,movie,"Adventure, Animation, Comedy",8.3,1163329.0,2009.0,7.5,8.9
+tt0371746,Iron Man,movie,"Action, Adventure, Sci-Fi",7.9,1156404.0,2008.0,7.6,7.5
+tt0081505,The Shining,movie,"Drama, Horror",8.4,1149246.0,1980.0,7.8,8.2
+tt1392190,Mad Max: Fury Road,movie,"Action, Adventure, Sci-Fi",8.1,1148042.0,2015.0,7.2,9.65
+tt0264464,Catch Me If You Can,movie,"Biography, Crime, Drama",8.1,1142229.0,2002.0,7.9,8.1
+tt0108778,Friends,tvSeries,"Comedy, Romance",8.9,1126439.0,1994.0,6.6,9.5
+tt0105236,Reservoir Dogs,movie,"Crime, Thriller",8.3,1118991.0,1992.0,7.9,8.2
+tt0338013,Eternal Sunshine of the Spotless Mind,movie,"Drama, Romance, Sci-Fi",8.3,1117918.0,2004.0,7.3,8.5
+tt0119217,Good Will Hunting,movie,"Drama, Romance",8.3,1115195.0,1997.0,8.1,8.5
+tt0114709,Toy Story,movie,"Adventure, Animation, Comedy",8.3,1106084.0,1995.0,7.4,7.6
+tt0073486,One Flew Over the Cuckoo's Nest,movie,Drama,8.7,1103067.0,1975.0,8.5,9.0
+tt0477348,No Country for Old Men,movie,"Crime, Drama, Thriller",8.2,1101819.0,2007.0,7.6,7.7
+tt0167404,The Sixth Sense,movie,"Drama, Mystery, Thriller",8.2,1084689.0,1999.0,7.8,8.7
+tt2582802,Whiplash,movie,"Drama, Music",8.5,1045300.0,2014.0,8.1,9.25
+tt1392170,The Hunger Games,movie,"Action, Adventure, Sci-Fi",7.2,1029081.0,2012.0,7.2,5.6
+tt0198781,"Monsters, Inc.",movie,"Adventure, Animation, Comedy",8.1,1012450.0,2001.0,7.5,8.3
+tt0268978,A Beautiful Mind,movie,"Biography, Drama, Mystery",8.2,1010918.0,2001.0,8.3,8.7
+tt0075314,Taxi Driver,movie,"Crime, Drama",8.2,960396.0,1976.0,7.8,8.5
+tt0253474,The Pianist,movie,"Biography, Drama, Music",8.5,950129.0,2002.0,8.3,8.9
+tt0086250,Scarface,movie,"Crime, Drama",8.3,948437.0,1983.0,5.0,8.2
+tt0208092,Snatch,movie,"Comedy, Crime",8.2,934183.0,2000.0,8.0,8.5
+tt0180093,Requiem for a Dream,movie,Drama,8.3,926109.0,2000.0,7.8,8.8
+tt1300854,Iron Man 3,movie,"Action, Adventure, Sci-Fi",7.1,920944.0,2013.0,7.4,8.2
+tt0458339,Captain America: The First Avenger,movie,"Action, Adventure, Sci-Fi",6.9,919722.0,2011.0,6.7,6.8
+tt0435761,Toy Story 3,movie,"Adventure, Animation, Comedy",8.3,919333.0,2010.0,7.2,7.6
+tt2278388,The Grand Budapest Hotel,movie,"Adventure, Comedy, Crime",8.1,913069.0,2014.0,7.8,9.7
+tt0050083,12 Angry Men,movie,"Crime, Drama",9.0,905445.0,1957.0,8.1,9.3
+tt0066921,A Clockwork Orange,movie,"Crime, Sci-Fi",8.2,901952.0,1971.0,7.9,8.4
+tt1228705,Iron Man 2,movie,"Action, Sci-Fi",6.9,890879.0,2010.0,7.3,7.3
+tt0241527,Harry Potter and the Sorcerer's Stone,movie,"Adventure, Family, Fantasy",7.7,890778.0,2001.0,7.5,8.0
+tt1010048,Slumdog Millionaire,movie,"Crime, Drama, Romance",8.0,889671.0,2008.0,7.4,8.5
+tt0416449,300,movie,"Action, Drama",7.6,882197.0,2006.0,7.5,7.5
+tt0118715,The Big Lebowski,movie,"Comedy, Crime",8.1,880687.0,1998.0,7.4,7.7
+tt1454468,Gravity,movie,"Drama, Sci-Fi, Thriller",7.7,876079.0,2013.0,6.6,8.6
+tt1119646,The Hangover,movie,Comedy,7.7,873373.0,2009.0,7.3,7.5
+tt0246578,Donnie Darko,movie,"Drama, Mystery, Sci-Fi",8.0,871920.0,2001.0,7.7,7.8
+tt0382932,Ratatouille,movie,"Adventure, Animation, Comedy",8.1,866433.0,2007.0,7.3,8.0
+tt1825683,Black Panther,movie,"Action, Adventure, Sci-Fi",7.3,861004.0,2018.0,6.7,4.15
+tt2096673,Inside Out,movie,"Adventure, Animation, Comedy",8.1,849920.0,2015.0,7.7,9.45
+tt0083658,Blade Runner,movie,"Action, Drama, Sci-Fi",8.1,844239.0,1982.0,7.7,8.1
+tt3501632,Thor: Ragnarok,movie,"Action, Adventure, Comedy",7.9,842321.0,2017.0,7.7,7.15
+tt0317705,The Incredibles,movie,"Action, Adventure, Animation",8.0,840500.0,2004.0,7.0,7.8
+tt0480249,I Am Legend,movie,"Drama, Horror, Sci-Fi",7.2,839015.0,2007.0,7.5,7.5
+tt1205489,Gran Torino,movie,Drama,8.1,831236.0,2008.0,8.2,8.6
+tt0097576,Indiana Jones and the Last Crusade,movie,"Action, Adventure",8.2,829921.0,1989.0,7.7,8.2
+tt0892769,How to Train Your Dragon,movie,"Action, Adventure, Animation",8.1,828734.0,2010.0,7.9,6.9
+tt0378194,Kill Bill: Vol. 2,movie,"Action, Crime, Thriller",8.0,827722.0,2004.0,7.4,7.5
+tt0770828,Man of Steel,movie,"Action, Adventure, Sci-Fi",7.1,827417.0,2013.0,6.4,6.8
+tt0093058,Full Metal Jacket,movie,"Drama, War",8.2,811989.0,1987.0,8.0,8.4
+tt2543164,Arrival,movie,"Drama, Mystery, Sci-Fi",7.9,801918.0,2016.0,7.3,7.2
+tt0383574,Pirates of the Caribbean: Dead Man's Chest,movie,"Action, Adventure, Fantasy",7.4,787666.0,2006.0,7.8,7.7
+tt3896198,Guardians of the Galaxy Vol. 2,movie,"Action, Adventure, Comedy",7.6,782813.0,2017.0,7.5,9.0
+tt5013056,Dunkirk,movie,"Action, Drama, History",7.8,762473.0,2017.0,7.3,8.65
+tt1631867,Edge of Tomorrow,movie,"Action, Adventure, Sci-Fi",7.9,761749.0,2014.0,7.4,9.0
+tt0126029,Shrek,movie,"Adventure, Animation, Comedy",7.9,760281.0,2001.0,7.8,7.9
+tt0144084,American Psycho,movie,"Crime, Drama, Horror",7.6,760094.0,2000.0,7.3,7.5
+tt0116282,Fargo,movie,"Crime, Drama, Thriller",8.1,744706.0,1996.0,7.6,7.9
+tt0816711,World War Z,movie,"Action, Adventure, Horror",7.0,743507.0,2013.0,6.6,8.0
+tt5052448,Get Out,movie,"Horror, Mystery, Thriller",7.8,743397.0,2017.0,7.0,8.05
+tt0062622,2001: A Space Odyssey,movie,"Adventure, Sci-Fi",8.3,743101.0,1968.0,7.7,8.6
+tt0113277,Heat,movie,"Action, Crime, Drama",8.3,742812.0,1995.0,8.1,8.4
+tt0054215,Psycho,movie,"Horror, Mystery, Thriller",8.5,742706.0,1960.0,5.2,8.8
+tt0117951,Trainspotting,movie,Drama,8.1,742146.0,1996.0,7.8,8.6
+tt0405159,Million Dollar Baby,movie,"Drama, Sport",8.1,738480.0,2004.0,7.8,8.1
+tt0078788,Apocalypse Now,movie,"Drama, Mystery, War",8.4,732318.0,1979.0,8.2,8.3
+tt1136608,District 9,movie,"Action, Sci-Fi, Thriller",7.9,729902.0,2009.0,7.1,8.4
+tt0295297,Harry Potter and the Chamber of Secrets,movie,"Adventure, Family, Fantasy",7.4,718398.0,2002.0,7.4,7.6
+tt0304141,Harry Potter and the Prisoner of Azkaban,movie,"Adventure, Family, Fantasy",7.9,718032.0,2004.0,7.7,7.6
+tt1504320,The King's Speech,movie,"Biography, Drama, History",8.0,717292.0,2010.0,7.8,8.5
+tt0451279,Wonder Woman,movie,"Action, Adventure, Fantasy",7.3,713471.0,2017.0,6.6,6.3
+tt0421715,The Curious Case of Benjamin Button,movie,"Drama, Fantasy, Romance",7.8,713406.0,2008.0,7.7,8.5
+tt0449088,Pirates of the Caribbean: At World's End,movie,"Action, Adventure, Fantasy",7.1,711072.0,2007.0,7.7,7.7
+tt0381061,Casino Royale,movie,"Action, Adventure, Thriller",8.0,710718.0,2006.0,7.5,7.1
+tt0330373,Harry Potter and the Goblet of Fire,movie,"Adventure, Family, Fantasy",7.7,706487.0,2005.0,7.6,7.6
+tt0107048,Groundhog Day,movie,"Comedy, Drama, Fantasy",8.0,705442.0,1993.0,7.2,8.5
+tt3783958,La La Land,movie,"Comedy, Drama, Music",8.0,704679.0,2016.0,7.3,9.15
+tt1856101,Blade Runner 2049,movie,"Action, Drama, Mystery",8.0,698304.0,2017.0,7.5,8.9
+tt0369610,Jurassic World,movie,"Action, Adventure, Sci-Fi",6.9,694219.0,2015.0,6.5,7.95
+tt1798709,Her,movie,"Drama, Romance, Sci-Fi",8.0,691864.0,2013.0,7.5,9.35
+tt0418279,Transformers,movie,"Action, Adventure, Sci-Fi",7.1,690459.0,2007.0,7.3,8.1
+tt0099785,Home Alone,movie,"Comedy, Family",7.7,688190.0,1990.0,7.1,7.8
+tt0988045,Sherlock Holmes,movie,"Action, Adventure, Mystery",7.6,684647.0,2009.0,7.7,7.4
+tt0073195,Jaws,movie,"Adventure, Drama, Horror",8.1,684407.0,1975.0,7.0,7.6
+tt3460252,The Hateful Eight,movie,"Crime, Drama, Mystery",7.8,681065.0,2015.0,7.7,9.15
+tt1637725,Ted,movie,Comedy,6.9,674484.0,2012.0,6.5,5.4
+tt0758758,Into the Wild,movie,"Adventure, Biography, Drama",8.1,672576.0,2007.0,7.9,8.8
+tt0440963,The Bourne Ultimatum,movie,"Action, Mystery, Thriller",8.0,667471.0,2007.0,7.7,8.5
+tt0364569,Oldboy,movie,"Action, Drama, Mystery",8.3,664309.0,2003.0,6.2,8.5
+tt0469494,There Will Be Blood,movie,Drama,8.2,660558.0,2007.0,7.7,7.9
+tt0373889,Harry Potter and the Order of the Phoenix,movie,"Action, Adventure, Family",7.5,656523.0,2007.0,7.5,7.2
+tt0829482,Superbad,movie,Comedy,7.6,654164.0,2007.0,6.4,6.8
+tt0075148,Rocky,movie,"Drama, Sport",8.1,650281.0,1976.0,7.7,8.2
+tt0936501,Taken,movie,"Action, Crime, Thriller",7.7,648729.0,2008.0,7.6,8.0
+tt1024648,Argo,movie,"Biography, Drama, History",7.7,648216.0,2012.0,7.3,8.75
+tt0234215,The Matrix Reloaded,movie,"Action, Sci-Fi",7.2,645614.0,2003.0,7.2,8.0
+tt0332280,The Notebook,movie,"Drama, Romance",7.8,644372.0,2004.0,8.0,8.4
+tt1156398,Zombieland,movie,"Action, Comedy, Horror",7.5,638389.0,2009.0,6.8,6.9
+tt0240772,Ocean's Eleven,movie,"Crime, Thriller",7.7,637359.0,2001.0,7.6,7.8
+tt0120363,Toy Story 2,movie,"Adventure, Animation, Comedy",7.9,637149.0,1999.0,7.2,7.5
+tt0119488,L.A. Confidential,movie,"Crime, Drama, Mystery",8.2,634623.0,1997.0,7.7,8.4
+tt1396484,It,movie,Horror,7.3,633255.0,2017.0,6.7,6.6
+tt2380307,Coco,movie,"Adventure, Animation, Drama",8.4,632297.0,2017.0,8.3,9.7
+tt0119654,Men in Black,movie,"Action, Adventure, Comedy",7.3,630517.0,1997.0,7.1,7.8
+tt0120735,"Lock, Stock and Two Smoking Barrels",movie,"Comedy, Crime",8.1,629342.0,1998.0,7.9,9.1
+tt0796366,Star Trek,movie,"Action, Adventure, Sci-Fi",7.9,626703.0,2009.0,6.9,7.7
+tt0443706,Zodiac,movie,"Crime, Drama, Mystery",7.7,624297.0,2007.0,7.2,7.0
+tt1219289,Limitless,movie,"Sci-Fi, Thriller",7.4,624133.0,2011.0,7.6,6.9
+tt0034583,Casablanca,movie,"Drama, Romance, War",8.5,623815.0,1942.0,7.9,8.5
+tt2119532,Hacksaw Ridge,movie,"Biography, Drama, History",8.1,623222.0,2016.0,8.1,9.4
+tt0926084,Harry Potter and the Deathly Hallows: Part 1,movie,"Adventure, Family, Fantasy",7.7,621541.0,2010.0,7.5,8.0
+tt0116629,Independence Day,movie,"Action, Adventure, Sci-Fi",7.0,621056.0,1996.0,7.2,7.9
+tt6644200,A Quiet Place,movie,"Drama, Horror, Sci-Fi",7.5,618751.0,2018.0,6.6,4.8
+tt0417741,Harry Potter and the Half-Blood Prince,movie,"Action, Adventure, Family",7.6,618066.0,2009.0,7.5,6.5
+tt1343092,The Great Gatsby,movie,"Drama, Romance",7.2,613767.0,2013.0,7.3,6.85
+tt0365748,Shaun of the Dead,movie,"Comedy, Horror",7.9,612252.0,2004.0,6.7,7.9
+tt0450259,Blood Diamond,movie,"Adventure, Drama, Thriller",8.0,600561.0,2006.0,7.5,8.1
+tt0181689,Minority Report,movie,"Action, Crime, Mystery",7.6,596849.0,2002.0,7.3,7.5
+tt0343818,"I, Robot",movie,"Action, Mystery, Sci-Fi",7.1,590045.0,2004.0,7.2,7.7
+tt0258463,The Bourne Identity,movie,"Action, Mystery, Thriller",7.8,589211.0,2002.0,7.6,8.4
+tt0332452,Troy,movie,"Adventure, Drama",7.3,586038.0,2004.0,7.4,7.1
+tt0112641,Casino,movie,"Crime, Drama",8.2,582632.0,1995.0,8.1,8.1
+tt0071853,Monty Python and the Holy Grail,movie,"Adventure, Comedy, Fantasy",8.2,582086.0,1975.0,8.0,8.2
+tt0454921,The Pursuit of Happyness,movie,"Biography, Drama",8.0,581268.0,2006.0,8.1,8.8
+tt1298650,Pirates of the Caribbean: On Stranger Tides,movie,"Action, Adventure, Fantasy",6.6,578980.0,2011.0,7.4,8.4
+tt0097165,Dead Poets Society,movie,"Comedy, Drama",8.1,577468.0,1989.0,7.8,8.8
+tt1457767,The Conjuring,movie,"Horror, Mystery, Thriller",7.5,576095.0,2013.0,7.4,8.8
+tt5027774,"Three Billboards Outside Ebbing, Missouri",movie,"Comedy, Crime, Drama",8.1,572830.0,2017.0,7.9,9.65
+tt2948356,Zootopia,movie,"Action, Adventure, Animation",8.0,569356.0,2016.0,7.9,9.85
+tt1659337,The Perks of Being a Wallflower,movie,Drama,7.9,563363.0,2012.0,7.5,6.9
+tt0945513,Source Code,movie,"Action, Drama, Mystery",7.5,562367.0,2011.0,7.3,9.35
+tt0356910,Mr. & Mrs. Smith,movie,"Action, Comedy, Crime",6.5,558994.0,2005.0,6.7,7.2
+tt0467406,Juno,movie,"Comedy, Drama",7.4,558742.0,2007.0,6.7,7.9
+tt0095953,Rain Man,movie,Drama,8.0,558217.0,1988.0,8.0,8.4
+tt2872732,Lucy,movie,"Action, Sci-Fi, Thriller",6.4,549519.0,2014.0,6.3,6.55
+tt0367594,Charlie and the Chocolate Factory,movie,"Adventure, Comedy, Family",6.7,544879.0,2005.0,7.1,7.6
+tt0412142,House,tvSeries,"Drama, Mystery",8.7,543720.0,2004.0,5.9,8.9
+tt0206634,Children of Men,movie,"Drama, Sci-Fi, Thriller",7.9,542209.0,2006.0,6.9,7.3
+tt0441773,Kung Fu Panda,movie,"Action, Adventure, Animation",7.6,542135.0,2008.0,7.1,8.0
+tt1663662,Pacific Rim,movie,"Action, Adventure, Sci-Fi",6.9,541201.0,2013.0,6.5,8.2
+tt0099487,Edward Scissorhands,movie,"Drama, Fantasy, Romance",7.9,541028.0,1990.0,7.7,8.7
+tt0047396,Rear Window,movie,"Drama, Mystery, Thriller",8.5,539299.0,1954.0,6.5,8.2
+tt0800080,The Incredible Hulk,movie,"Action, Adventure, Sci-Fi",6.6,536345.0,2008.0,6.4,6.6
+tt0268380,Ice Age,movie,"Adventure, Animation, Comedy",7.5,535900.0,2002.0,7.6,8.2
+tt0289879,The Butterfly Effect,movie,"Drama, Sci-Fi, Thriller",7.6,534807.0,2004.0,7.8,8.5
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,movie,"Comedy, War",8.3,532603.0,1964.0,8.0,8.7
+tt4425200,John Wick: Chapter 2,movie,"Action, Crime, Thriller",7.4,531203.0,2017.0,6.8,6.75
+tt0449059,Little Miss Sunshine,movie,"Comedy, Drama",7.8,530980.0,2006.0,7.1,8.1
+tt1790864,The Maze Runner,movie,"Mystery, Sci-Fi, Thriller",6.8,527821.0,2014.0,7.0,5.55
+tt0448157,Hancock,movie,"Action, Comedy, Drama",6.4,523120.0,2008.0,7.0,6.7
+tt0298148,Shrek 2,movie,"Adventure, Animation, Comedy",7.4,521887.0,2004.0,7.4,7.5
+tt0038650,It's a Wonderful Life,movie,"Drama, Family, Fantasy",8.6,521376.0,1946.0,8.1,9.0
+tt2245084,Big Hero 6,movie,"Action, Adventure, Animation",7.8,520574.0,2014.0,7.7,9.3
+tt0119116,The Fifth Element,movie,"Action, Adventure, Sci-Fi",7.6,520476.0,1997.0,7.4,7.8
+tt3183660,Fantastic Beasts and Where to Find Them,movie,"Adventure, Family, Fantasy",7.2,519807.0,2016.0,7.0,7.9
+tt0092099,Top Gun,movie,"Action, Drama",6.9,519045.0,1986.0,7.2,7.4
+tt1895587,Spotlight,movie,"Biography, Crime, Drama",8.1,513222.0,2015.0,7.6,9.6
+tt0398286,Tangled,movie,"Adventure, Animation, Comedy",7.7,512248.0,2010.0,7.6,8.0
+tt0362227,The Terminal,movie,"Comedy, Drama, Romance",7.4,508424.0,2004.0,7.4,8.3
+tt1677720,Ready Player One,movie,"Action, Adventure, Sci-Fi",7.4,507026.0,2018.0,7.0,9.75
+tt1454029,The Help,movie,Drama,8.1,506420.0,2011.0,8.1,9.6
+tt0335266,Lost in Translation,movie,"Comedy, Drama",7.7,505372.0,2003.0,7.4,7.9
+tt1099212,Twilight,movie,"Drama, Fantasy, Romance",5.3,499863.0,2008.0,5.6,7.5
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,movie,"Action, Adventure",6.2,499423.0,2008.0,6.6,6.7
+tt0372183,The Bourne Supremacy,movie,"Action, Thriller",7.7,496107.0,2004.0,7.6,8.3
+tt2103281,Dawn of the Planet of the Apes,movie,"Action, Adventure, Drama",7.6,495727.0,2014.0,7.0,7.85
+tt0317219,Cars,movie,"Adventure, Animation, Comedy",7.3,492037.0,2006.0,7.1,7.6
+tt0319262,The Day After Tomorrow,movie,"Action, Adventure, Sci-Fi",6.5,491395.0,2004.0,6.8,7.8
+tt0458352,The Devil Wears Prada,movie,"Comedy, Drama",6.9,490644.0,2006.0,6.9,7.8
+tt0084787,The Thing,movie,"Horror, Mystery, Sci-Fi",8.2,488860.0,1982.0,5.8,7.6
+tt0101414,Beauty and the Beast,movie,"Animation, Family, Fantasy",8.0,488738.0,1991.0,7.2,8.1
+tt0139654,Training Day,movie,"Crime, Drama, Thriller",7.8,488609.0,2001.0,7.6,7.8
+tt0974015,Justice League,movie,"Action, Adventure, Fantasy",6.0,488018.0,2017.0,5.9,6.8
+tt0407304,War of the Worlds,movie,"Action, Adventure, Sci-Fi",6.5,485551.0,2005.0,6.3,6.3
+tt0217505,Gangs of New York,movie,"Crime, Drama",7.5,483568.0,2002.0,7.1,7.1
+tt0387564,Saw,movie,"Horror, Mystery, Thriller",7.6,483413.0,2004.0,6.7,8.5
+tt0325710,The Last Samurai,movie,"Action, Drama",7.8,483246.0,2003.0,7.7,7.3
+tt0117060,Mission: Impossible,movie,"Action, Adventure, Thriller",7.2,482428.0,1996.0,7.1,7.7
+tt0103639,Aladdin,movie,"Adventure, Animation, Comedy",8.0,481629.0,1992.0,6.9,7.8
+tt0887912,The Hurt Locker,movie,"Drama, Thriller, War",7.5,481065.0,2008.0,7.3,7.5
+tt0830515,Quantum of Solace,movie,"Action, Adventure, Mystery",6.5,479745.0,2008.0,6.7,6.2
+tt2379713,Spectre,movie,"Action, Adventure, Thriller",6.8,476710.0,2015.0,6.7,2.9
+tt0033467,Citizen Kane,movie,"Drama, Mystery",8.3,476537.0,1941.0,7.8,8.4
+tt1499658,Horrible Bosses,movie,"Comedy, Crime",6.9,476428.0,2011.0,6.5,5.15
+tt0120616,The Mummy,movie,"Action, Adventure, Fantasy",7.1,476031.0,1999.0,5.4,7.6
+tt0780536,In Bruges,movie,"Comedy, Crime, Drama",7.9,473705.0,2008.0,7.3,7.9
+tt0070047,The Exorcist,movie,Horror,8.1,471136.0,1973.0,7.5,7.6
+tt0093773,Predator,movie,"Action, Adventure, Horror",7.8,470577.0,1987.0,7.4,7.3
+tt2283362,Jumanji: Welcome to the Jungle,movie,"Action, Adventure, Comedy",7.0,469435.0,2017.0,6.6,4.8
+tt0382625,The Da Vinci Code,movie,"Mystery, Thriller",6.6,468359.0,2006.0,6.7,6.9
+tt0765429,American Gangster,movie,"Biography, Crime, Drama",7.8,467226.0,2007.0,7.8,7.7
+tt0087332,Ghostbusters,movie,"Action, Comedy, Fantasy",7.8,465419.0,1984.0,4.8,6.7
+tt3170832,Room,movie,"Drama, Thriller",8.1,462864.0,2015.0,7.8,9.65
+tt0942385,Tropic Thunder,movie,"Action, Comedy, War",7.1,461498.0,2008.0,5.8,6.5
+tt0120591,Armageddon,movie,"Action, Adventure, Sci-Fi",6.7,461280.0,1998.0,7.4,7.6
+tt0093779,The Princess Bride,movie,"Adventure, Comedy, Family",8.0,461126.0,1987.0,7.2,6.8
+tt1605783,Midnight in Paris,movie,"Comedy, Fantasy, Romance",7.6,457989.0,2011.0,7.1,8.95
+tt0092005,Stand by Me,movie,"Adventure, Comedy, Drama",8.1,456707.0,1986.0,7.6,8.9
+tt5580390,The Shape of Water,movie,"Drama, Fantasy, Romance",7.3,456224.0,2017.0,6.4,5.75
+tt0360717,King Kong,movie,"Action, Adventure, Romance",7.2,455426.0,2005.0,6.5,7.7
+tt0377092,Mean Girls,movie,Comedy,7.1,454331.0,2004.0,6.3,6.8
+tt0119567,The Lost World: Jurassic Park,movie,"Action, Adventure, Sci-Fi",6.6,454012.0,1997.0,6.9,7.5
+tt0375679,Crash,movie,"Crime, Drama, Thriller",7.7,453120.0,2004.0,7.6,8.6
+tt0217869,Unbreakable,movie,"Drama, Mystery, Sci-Fi",7.3,452715.0,2000.0,7.0,6.6
+tt0351283,Madagascar,movie,"Adventure, Animation, Comedy",6.9,451723.0,2005.0,7.5,7.5
+tt1187043,3 Idiots,movie,"Comedy, Drama",8.4,450952.0,2009.0,7.7,8.7
+tt1014759,Alice in Wonderland,movie,"Adventure, Family, Fantasy",6.4,450859.0,2010.0,7.1,8.0
+tt0831387,Godzilla,movie,"Action, Adventure, Sci-Fi",6.4,450635.0,2014.0,6.0,3.9
+tt0088847,The Breakfast Club,movie,"Comedy, Drama",7.8,450438.0,1985.0,7.4,8.3
+tt0091763,Platoon,movie,"Drama, War",8.1,450019.0,1986.0,8.1,8.1
+tt0083866,E.T. the Extra-Terrestrial,movie,"Adventure, Family, Sci-Fi",7.9,449200.0,1982.0,7.1,8.5
+tt0105695,Unforgiven,movie,"Drama, Western",8.2,447667.0,1992.0,7.9,8.2
+tt0315327,Bruce Almighty,movie,"Comedy, Fantasy",6.8,446563.0,2003.0,6.9,7.3
+tt0163651,American Pie,movie,Comedy,7.0,445891.0,1999.0,6.5,7.3
+tt0119174,The Game,movie,"Drama, Mystery, Thriller",7.7,445755.0,1997.0,7.8,7.9
+tt0369339,Collateral,movie,"Action, Crime, Drama",7.5,444002.0,2004.0,7.2,7.1
+tt0086879,Amadeus,movie,"Biography, Drama, Music",8.4,442775.0,1984.0,8.1,8.7
+tt0052357,Vertigo,movie,"Mystery, Romance, Thriller",8.3,439763.0,1958.0,7.7,8.5
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",movie,"Adventure, Family, Fantasy",6.9,439036.0,2005.0,7.0,6.8
+tt0110475,The Mask,movie,"Comedy, Crime, Fantasy",7.0,438533.0,1994.0,6.8,7.7
+tt1055369,Transformers: Revenge of the Fallen,movie,"Action, Adventure, Sci-Fi",6.0,437697.0,2009.0,7.1,7.8
+tt0265086,Black Hawk Down,movie,"Action, Drama, History",7.7,433947.0,2001.0,7.8,8.2
+tt0232500,The Fast and the Furious,movie,"Action, Crime, Thriller",6.8,432055.0,2001.0,7.4,7.3
+tt1060277,Cloverfield,movie,"Action, Horror, Sci-Fi",7.0,429900.0,2008.0,6.4,7.4
+tt0337978,Live Free or Die Hard,movie,"Action, Thriller",7.1,426780.0,2007.0,6.9,7.6
+tt0104431,Home Alone 2: Lost in New York,movie,"Adventure, Comedy, Crime",6.9,424088.0,1992.0,6.8,7.6
+tt0493464,Wanted,movie,"Action, Crime, Thriller",6.7,416839.0,2008.0,5.0,7.2
+tt1596343,Fast Five,movie,"Action, Crime, Thriller",7.3,416248.0,2011.0,7.4,9.55
+tt0118971,The Devil's Advocate,movie,"Drama, Fantasy, Mystery",7.5,415943.0,1997.0,7.9,8.1
+tt0096895,Batman,movie,"Action, Adventure",7.5,415687.0,1989.0,7.3,7.1
+tt0119094,Face/Off,movie,"Action, Crime, Sci-Fi",7.3,410702.0,1997.0,7.1,8.2
+tt0117571,Scream,movie,"Horror, Mystery",7.4,410207.0,1996.0,6.0,7.1
+tt0877057,Death Note,tvSeries,"Animation, Crime, Drama",8.9,408654.0,2006.0,4.4,8.6
+tt0147800,10 Things I Hate About You,movie,"Comedy, Drama, Romance",7.3,408117.0,1999.0,7.1,7.5
+tt0454848,Inside Man,movie,"Crime, Drama, Mystery",7.6,407358.0,2006.0,7.6,7.6
+tt1190080,2012,movie,"Action, Adventure, Sci-Fi",5.8,406493.0,2009.0,6.2,7.7
+tt0230600,The Others,movie,"Horror, Mystery, Thriller",7.6,404854.0,2001.0,7.4,7.9
+tt1453405,Monsters University,movie,"Adventure, Animation, Comedy",7.2,403128.0,2013.0,7.1,8.2
+tt0111257,Speed,movie,"Action, Adventure, Thriller",7.3,403057.0,1994.0,6.8,7.8
+tt0317919,Mission: Impossible III,movie,"Action, Adventure, Thriller",6.9,399590.0,2006.0,6.8,6.8
+tt0328107,Man on Fire,movie,"Action, Crime, Drama",7.7,399435.0,2004.0,7.9,8.0
+tt0091042,Ferris Bueller's Day Off,movie,Comedy,7.8,398185.0,1986.0,7.1,7.8
+tt0286106,Signs,movie,"Drama, Mystery, Sci-Fi",6.8,397688.0,2002.0,7.3,6.5
+tt0388795,Brokeback Mountain,movie,"Drama, Romance",7.7,396059.0,2005.0,7.4,8.0
+tt0317740,The Italian Job,movie,"Action, Crime, Thriller",7.0,395769.0,2003.0,7.0,7.5
+tt0162661,Sleepy Hollow,movie,"Fantasy, Horror, Mystery",7.3,395213.0,1999.0,7.4,7.7
+tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,movie,"Drama, Horror, Musical",7.3,394792.0,2007.0,7.5,7.6
+tt0443543,The Illusionist,movie,"Drama, Fantasy, Mystery",7.5,394775.0,2006.0,7.8,7.6
+tt0099423,Die Hard 2,movie,"Action, Thriller",7.1,393637.0,1990.0,7.3,7.7
+tt0343660,50 First Dates,movie,"Comedy, Drama, Romance",6.8,392982.0,2004.0,6.8,7.7
+tt0120663,Eyes Wide Shut,movie,"Drama, Mystery, Thriller",7.5,391705.0,1999.0,7.3,7.3
+tt0107688,The Nightmare Before Christmas,movie,"Animation, Family, Fantasy",7.9,391636.0,1993.0,7.6,8.4
+tt0338751,The Aviator,movie,"Biography, Drama",7.5,391524.0,2004.0,6.7,7.3
+tt0081398,Raging Bull,movie,"Biography, Drama, Sport",8.1,390743.0,1980.0,7.8,8.4
+tt1068680,Yes Man,movie,"Comedy, Romance",6.8,390731.0,2008.0,7.0,7.5
+tt0478311,Knocked Up,movie,"Comedy, Romance",6.9,390218.0,2007.0,6.1,6.7
+tt0113497,Jumanji,movie,"Adventure, Comedy, Family",7.1,390018.0,1995.0,6.8,7.7
+tt0087843,Once Upon a Time in America,movie,"Crime, Drama",8.3,389714.0,1984.0,8.2,9.0
+tt0477347,Night at the Museum,movie,"Adventure, Comedy, Family",6.5,388671.0,2006.0,6.4,6.9
+tt0357413,Anchorman: The Legend of Ron Burgundy,movie,Comedy,7.1,387202.0,2004.0,5.9,6.3
+tt0120755,Mission: Impossible II,movie,"Action, Adventure, Thriller",6.1,386812.0,2000.0,6.4,6.9
+tt0360486,Constantine,movie,"Action, Fantasy, Horror",7.0,386313.0,2005.0,7.4,7.6
+tt0119396,Jackie Brown,movie,"Crime, Drama, Thriller",7.5,385338.0,1997.0,7.4,7.1
+tt1907668,Flight,movie,"Drama, Thriller",7.3,383658.0,2012.0,7.4,5.05
+tt0438488,Terminator Salvation,movie,"Action, Adventure, Sci-Fi",6.5,383389.0,2009.0,6.5,6.8
+tt0396269,Wedding Crashers,movie,"Comedy, Romance",7.0,383231.0,2005.0,6.5,6.5
+tt1182345,Moon,movie,"Drama, Mystery, Sci-Fi",7.8,383023.0,2009.0,7.3,8.3
+tt0395169,Hotel Rwanda,movie,"Biography, Drama, History",8.1,380615.0,2004.0,7.7,8.7
+tt1371111,Cloud Atlas,movie,"Drama, Mystery, Sci-Fi",7.4,379088.0,2012.0,7.1,8.1
+tt0100405,Pretty Woman,movie,"Comedy, Romance",7.1,378951.0,1990.0,7.4,7.8
+tt4649466,Kingsman: The Golden Circle,movie,"Action, Adventure, Comedy",6.7,378880.0,2017.0,6.8,5.55
+tt1646971,How to Train Your Dragon 2,movie,"Action, Adventure, Animation",7.8,375705.0,2014.0,7.7,7.35
+tt0790724,Jack Reacher,movie,"Action, Thriller",7.0,375352.0,2012.0,6.8,2.45
+tt1041829,The Proposal,movie,"Comedy, Drama, Romance",6.8,375100.0,2009.0,7.1,7.1
+tt0496806,Ocean's Thirteen,movie,"Crime, Thriller",6.9,374435.0,2007.0,7.2,6.9
+tt2798920,Annihilation,movie,"Adventure, Drama, Horror",6.8,373580.0,2018.0,6.2,6.95
+tt1065073,Boyhood,movie,Drama,7.9,373246.0,2014.0,7.0,9.05
+tt1650062,Super 8,movie,"Action, Sci-Fi, Thriller",7.0,372106.0,2011.0,6.3,3.85
+tt0077416,The Deer Hunter,movie,"Drama, War",8.1,371421.0,1978.0,8.1,8.3
+tt0389860,Click,movie,"Comedy, Drama, Fantasy",6.4,367008.0,2006.0,6.5,7.5
+tt0117500,The Rock,movie,"Action, Adventure, Thriller",7.4,366215.0,1996.0,7.5,8.4
+tt0212338,Meet the Parents,movie,"Comedy, Romance",7.0,364108.0,2000.0,6.9,7.1
+tt0368891,National Treasure,movie,"Action, Adventure, Mystery",6.9,363974.0,2004.0,7.1,7.5
+tt0100802,Total Recall,movie,"Action, Adventure, Sci-Fi",7.5,363705.0,1990.0,6.4,7.3
+tt0822854,Shooter,movie,"Action, Drama, Thriller",7.1,363511.0,2007.0,7.5,7.5
+tt0910936,Pineapple Express,movie,"Action, Comedy, Crime",6.9,362954.0,2008.0,6.3,6.7
+tt1231583,Due Date,movie,"Comedy, Drama",6.5,362896.0,2010.0,6.6,4.6
+tt0887883,Burn After Reading,movie,"Comedy, Crime, Drama",7.0,361161.0,2008.0,6.5,7.0
+tt0071315,Chinatown,movie,"Drama, Mystery, Thriller",8.1,360464.0,1974.0,7.9,8.1
+tt0120601,Being John Malkovich,movie,"Comedy, Drama, Fantasy",7.7,359738.0,1999.0,7.3,8.2
+tt1790809,Pirates of the Caribbean: Dead Men Tell No Tales,movie,"Action, Adventure, Fantasy",6.5,359333.0,2017.0,6.8,5.85
+tt3731562,Kong: Skull Island,movie,"Action, Adventure, Fantasy",6.7,358961.0,2017.0,6.4,3.85
+tt0167190,Hellboy,movie,"Action, Adventure, Fantasy",6.9,358524.0,2004.0,5.3,6.9
+tt0213149,Pearl Harbor,movie,"Action, Drama, Romance",6.2,358501.0,2001.0,7.4,7.4
+tt0125439,Notting Hill,movie,"Comedy, Drama, Romance",7.2,357804.0,1999.0,7.1,7.8
+tt0462538,The Simpsons Movie,movie,"Adventure, Animation, Comedy",7.3,355541.0,2007.0,7.3,8.2
+tt4881806,Jurassic World: Fallen Kingdom,movie,"Action, Adventure, Sci-Fi",6.1,354659.0,2018.0,6.0,5.0
+tt0209163,The Mummy Returns,movie,"Action, Adventure, Fantasy",6.4,354410.0,2001.0,6.7,7.3
+tt1193138,Up in the Air,movie,"Comedy, Drama, Romance",7.4,353556.0,2009.0,6.9,8.0
+tt0884328,The Mist,movie,"Horror, Sci-Fi, Thriller",7.1,353086.0,2007.0,5.8,7.7
+tt0238380,Equilibrium,movie,"Action, Drama, Sci-Fi",7.3,352802.0,2002.0,7.4,7.3
+tt0112471,Before Sunrise,movie,"Drama, Romance",8.1,352765.0,1995.0,7.7,8.8
+tt0120667,Fantastic Four,movie,"Action, Adventure, Fantasy",5.7,351823.0,2005.0,4.8,6.3
+tt1707386,Les Misérables,movie,"Drama, Musical, Romance",7.5,351809.0,2012.0,7.4,9.05
+tt0116367,From Dusk Till Dawn,movie,"Action, Crime, Horror",7.2,350615.0,1996.0,7.2,7.6
+tt1591095,Insidious,movie,"Horror, Mystery, Thriller",6.8,349124.0,2010.0,6.7,8.4
+tt1037705,The Book of Eli,movie,"Action, Adventure, Drama",6.8,347843.0,2010.0,7.0,6.6
+tt4925292,Lady Bird,movie,"Comedy, Drama",7.4,346056.0,2017.0,6.7,7.1
+tt3606756,Incredibles 2,movie,"Action, Adventure, Animation",7.5,345412.0,2018.0,7.4,8.15
+tt0399295,Lord of War,movie,"Crime, Drama",7.6,345188.0,2005.0,7.6,8.3
+tt0457939,The Holiday,movie,"Comedy, Romance",7.0,344289.0,2006.0,7.2,7.5
+tt0414387,Pride & Prejudice,movie,"Drama, Romance",7.8,343859.0,2005.0,7.7,8.2
+tt0119528,Liar Liar,movie,"Comedy, Fantasy",6.9,343688.0,1997.0,6.8,7.5
+tt2771200,Beauty and the Beast,movie,"Adventure, Family, Fantasy",7.1,342844.0,2017.0,7.2,5.4
+tt0031381,Gone with the Wind,movie,"Drama, Romance, War",8.2,342420.0,1939.0,7.9,9.1
+tt0413267,Shrek the Third,movie,"Adventure, Animation, Comedy",6.1,342071.0,2007.0,6.6,7.1
+tt0105323,Scent of a Woman,movie,Drama,8.0,341540.0,1992.0,8.1,8.8
+tt0119008,Donnie Brasco,movie,"Biography, Crime, Drama",7.7,340506.0,1997.0,7.8,8.0
+tt0056592,To Kill a Mockingbird,movie,"Crime, Drama",8.3,340361.0,1962.0,7.9,8.2
+tt0386588,Hitch,movie,"Comedy, Romance",6.6,340208.0,2005.0,6.9,7.5
+tt0381849,3:10 to Yuma,movie,"Action, Crime, Drama",7.6,339829.0,2007.0,7.4,7.8
+tt0472043,Apocalypto,movie,"Action, Adventure, Drama",7.8,339747.0,2006.0,7.3,8.1
+tt0094226,The Untouchables,movie,"Crime, Drama, Thriller",7.8,339132.0,1987.0,7.8,7.9
+tt4975722,Moonlight,movie,Drama,7.4,338699.0,2016.0,6.6,5.25
+tt0190590,"O Brother, Where Art Thou?",movie,"Comedy, Crime, Drama",7.7,338350.0,2000.0,7.2,7.8
+tt0103776,Batman Returns,movie,"Action, Crime, Fantasy",7.1,336910.0,1992.0,7.2,7.1
+tt0103644,Alien³,movie,"Action, Horror, Sci-Fi",6.4,336446.0,1992.0,7.2,7.2
+tt0129387,There's Something About Mary,movie,"Comedy, Romance",7.1,336024.0,1998.0,6.2,7.0
+tt0175880,Magnolia,movie,Drama,8.0,335150.0,1999.0,7.5,8.4
+tt0109040,Ace Ventura: Pet Detective,movie,Comedy,6.9,335045.0,1994.0,6.3,7.3
+tt0453467,Deja Vu,movie,"Action, Crime, Sci-Fi",7.1,334404.0,2006.0,7.3,7.4
+tt1302011,Kung Fu Panda 2,movie,"Action, Adventure, Animation",7.3,333269.0,2011.0,7.0,7.0
+tt0298203,8 Mile,movie,"Drama, Music",7.2,333078.0,2002.0,7.3,7.8
+tt0399201,The Island,movie,"Action, Sci-Fi, Thriller",6.8,332454.0,2005.0,7.1,6.8
+tt5726616,Call Me by Your Name,movie,"Drama, Romance",7.8,332173.0,2017.0,7.6,9.8
+tt0120201,Starship Troopers,movie,"Action, Adventure, Sci-Fi",7.3,330758.0,1997.0,6.5,7.4
+tt0425210,Lucky Number Slevin,movie,"Crime, Drama, Thriller",7.7,330406.0,2006.0,7.6,7.4
+tt1197624,Law Abiding Citizen,movie,"Action, Crime, Drama",7.4,329453.0,2009.0,7.8,7.7
+tt0489099,Jumper,movie,"Action, Adventure, Sci-Fi",6.1,329041.0,2008.0,6.7,6.4
+tt0212720,A.I. Artificial Intelligence,movie,"Adventure, Drama, Sci-Fi",7.2,328804.0,2001.0,7.3,8.5
+tt0106977,The Fugitive,movie,"Action, Crime, Drama",7.8,328449.0,1993.0,7.6,7.8
+tt0320661,Kingdom of Heaven,movie,"Action, Adventure, Drama",7.3,327808.0,2005.0,7.2,7.7
+tt0838283,Step Brothers,movie,Comedy,6.9,327459.0,2008.0,6.1,5.9
+tt0293662,The Transporter,movie,"Action, Crime, Thriller",6.8,327328.0,2002.0,7.3,7.1
+tt0120762,Mulan,movie,"Adventure, Animation, Comedy",7.7,326941.0,1998.0,5.7,7.2
+tt4034228,Manchester by the Sea,movie,Drama,7.8,326455.0,2016.0,7.6,9.25
+tt0278504,Insomnia,movie,"Drama, Mystery, Thriller",7.2,326399.0,2002.0,7.2,7.1
+tt0119822,As Good as It Gets,movie,"Comedy, Drama, Romance",7.7,325637.0,1997.0,7.5,7.9
+tt1152836,Public Enemies,movie,"Biography, Crime, Drama",6.9,325318.0,2009.0,7.2,7.4
+tt1485796,The Greatest Showman,movie,"Biography, Drama, Musical",7.5,325218.0,2017.0,7.6,6.05
+tt2316204,Alien: Covenant,movie,"Horror, Sci-Fi, Thriller",6.4,325119.0,2017.0,5.7,8.05
+tt0056172,Lawrence of Arabia,movie,"Adventure, Biography, Drama",8.3,324866.0,1962.0,7.6,8.6
+tt1125849,The Wrestler,movie,"Drama, Sport",7.9,323827.0,2008.0,7.2,8.2
+tt0112384,Apollo 13,movie,"Adventure, Drama, History",7.7,323074.0,1995.0,7.4,7.7
+tt0120623,A Bug's Life,movie,"Adventure, Animation, Comedy",7.2,322948.0,1998.0,6.8,7.6
+tt1028532,Hachi: A Dog's Tale,movie,"Biography, Drama, Family",8.1,322696.0,2009.0,8.0,8.3
+tt0449467,Babel,movie,Drama,7.5,321682.0,2006.0,7.4,7.9
+tt1028528,Death Proof,movie,"Drama, Thriller",7.0,321097.0,2007.0,7.1,7.5
+tt1194173,The Bourne Legacy,movie,"Action, Adventure, Thriller",6.6,320268.0,2012.0,6.5,9.4
+tt0077651,Halloween,movie,"Horror, Thriller",7.7,319958.0,1978.0,5.8,6.4
+tt1013752,Fast & Furious,movie,"Action, Thriller",6.5,319358.0,2009.0,7.3,7.0
+tt0814314,Seven Pounds,movie,"Drama, Mystery, Thriller",7.6,319261.0,2008.0,8.0,8.0
+tt0265666,The Royal Tenenbaums,movie,"Comedy, Drama",7.6,318685.0,2001.0,7.4,8.1
+tt0808151,Angels & Demons,movie,"Mystery, Thriller",6.7,315004.0,2009.0,7.0,7.1
+tt1478338,Bridesmaids,movie,Comedy,6.8,314972.0,2011.0,5.8,5.1
+tt2277860,Finding Dory,movie,"Adventure, Animation, Comedy",7.2,314782.0,2016.0,7.1,5.7
+tt3065204,The Conjuring 2,movie,"Horror, Mystery, Thriller",7.3,313220.0,2016.0,7.1,8.55
+tt0120611,Blade,movie,"Action, Horror, Sci-Fi",7.1,312791.0,1998.0,6.5,6.9
+tt3450958,War for the Planet of the Apes,movie,"Action, Adventure, Drama",7.4,311733.0,2017.0,7.0,5.95
+tt0121164,Corpse Bride,movie,"Animation, Comedy, Drama",7.4,310130.0,2005.0,7.5,8.0
+tt0463985,The Fast and the Furious: Tokyo Drift,movie,"Action, Crime, Thriller",6.1,310123.0,2006.0,7.1,6.6
+tt0077631,Grease,movie,"Comedy, Musical, Romance",7.2,310055.0,1978.0,7.4,7.5
+tt0170016,How the Grinch Stole Christmas,movie,"Comedy, Family, Fantasy",6.4,309863.0,2000.0,6.1,6.5
+tt0473075,Prince of Persia: The Sands of Time,movie,"Action, Adventure, Fantasy",6.5,309316.0,2010.0,6.9,7.9
+tt0379786,Serenity,movie,"Action, Adventure, Sci-Fi",7.8,309122.0,2005.0,5.7,6.8
+tt0783233,Atonement,movie,"Drama, Mystery, Romance",7.8,308620.0,2007.0,7.5,7.8
+tt0800039,Forgetting Sarah Marshall,movie,"Comedy, Drama, Romance",7.1,308004.0,2008.0,6.1,6.4
+tt0120669,Fear and Loathing in Las Vegas,movie,"Adventure, Comedy, Drama",7.5,307676.0,1998.0,7.5,7.3
+tt3263904,Sully,movie,"Biography, Drama",7.4,307395.0,2016.0,7.3,8.95
+tt1259571,The Twilight Saga: New Moon,movie,"Adventure, Drama, Fantasy",4.8,306993.0,2009.0,5.5,6.4
+tt3402236,Murder on the Orient Express,movie,"Crime, Drama, Mystery",6.5,306778.0,2017.0,6.5,4.95
+tt0322259,2 Fast 2 Furious,movie,"Action, Crime, Thriller",5.9,305968.0,2003.0,7.2,6.9
+tt0120812,Rush Hour,movie,"Action, Comedy, Crime",7.0,305811.0,1998.0,7.2,6.7
+tt0463854,28 Weeks Later,movie,"Horror, Sci-Fi",6.9,305017.0,2007.0,6.6,6.6
+tt0203009,Moulin Rouge!,movie,"Drama, Musical, Romance",7.6,304844.0,2001.0,7.3,7.9
+tt0258000,Panic Room,movie,"Crime, Drama, Thriller",6.8,303950.0,2002.0,7.0,7.0
+tt0196229,Zoolander,movie,Comedy,6.5,302273.0,2001.0,5.5,6.3
+tt0112442,Bad Boys,movie,"Action, Comedy, Crime",6.8,301855.0,1995.0,7.4,7.3
+tt0450385,1408,movie,"Fantasy, Horror, Mystery",6.8,301607.0,2007.0,6.8,7.0
+tt0212985,Hannibal,movie,"Crime, Drama, Thriller",6.8,301372.0,2001.0,7.6,7.9
+tt1133985,Green Lantern,movie,"Action, Adventure, Sci-Fi",5.5,301306.0,2011.0,5.6,6.4
+tt0187393,The Patriot,movie,"Action, Drama, History",7.2,300924.0,2000.0,7.5,7.9
+tt0187078,Gone in 60 Seconds,movie,"Action, Crime, Thriller",6.5,300747.0,2000.0,7.4,7.3
+tt0107614,Mrs. Doubtfire,movie,"Comedy, Drama",7.1,300705.0,1993.0,7.0,7.5
+tt0181875,Almost Famous,movie,"Adventure, Comedy, Drama",7.9,300627.0,2000.0,7.3,8.2
+tt0118884,Contact,movie,"Drama, Mystery, Sci-Fi",7.5,300259.0,1997.0,7.4,8.3
+tt0289765,Red Dragon,movie,"Crime, Drama, Thriller",7.2,299524.0,2002.0,7.6,7.4
+tt0452623,Gone Baby Gone,movie,"Crime, Drama, Mystery",7.6,299475.0,2007.0,7.1,7.5
+tt0175142,Scary Movie,movie,Comedy,6.3,298422.0,2000.0,6.3,6.9
+tt0097757,The Little Mermaid,movie,"Adventure, Animation, Family",7.6,298338.0,1989.0,5.0,8.1
+tt0185937,The Blair Witch Project,movie,"Horror, Mystery",6.5,298031.0,1999.0,6.3,6.7
+tt1340138,Terminator Genisys,movie,"Action, Adventure, Sci-Fi",6.3,297967.0,2015.0,6.1,5.95
+tt0099348,Dances with Wolves,movie,"Adventure, Drama, Western",8.0,297925.0,1990.0,7.8,8.7
+tt0381681,Before Sunset,movie,"Drama, Romance",8.1,297727.0,2004.0,7.5,8.8
+tt0104257,A Few Good Men,movie,"Drama, Thriller",7.7,297488.0,1992.0,7.5,7.6
+tt0120804,Resident Evil,movie,"Action, Horror, Sci-Fi",6.6,296223.0,2002.0,7.0,7.4
+tt0151804,Office Space,movie,Comedy,7.6,295864.0,1999.0,6.5,6.8
+tt0348150,Superman Returns,movie,"Action, Adventure, Sci-Fi",6.1,294677.0,2006.0,5.5,6.5
+tt0116695,Jerry Maguire,movie,"Comedy, Drama, Romance",7.3,294564.0,1996.0,7.1,7.3
+tt0338526,Van Helsing,movie,"Action, Adventure, Fantasy",6.1,294399.0,2004.0,6.8,7.0
+tt0061722,The Graduate,movie,"Comedy, Drama, Romance",8.0,294241.0,1967.0,7.9,7.9
+tt0290002,Meet the Fockers,movie,"Comedy, Romance",6.3,292851.0,2004.0,6.7,7.0
+tt0183649,Phone Booth,movie,"Crime, Thriller",7.1,292144.0,2002.0,7.0,7.9
+tt0093870,RoboCop,movie,"Action, Crime, Sci-Fi",7.6,292101.0,1987.0,6.1,7.4
+tt0195714,Final Destination,movie,"Horror, Thriller",6.7,291892.0,2000.0,6.6,7.7
+tt0259711,Vanilla Sky,movie,"Fantasy, Mystery, Romance",6.9,291537.0,2001.0,7.2,7.0
+tt0320691,Underworld,movie,"Action, Fantasy, Thriller",7.0,291364.0,2003.0,7.2,7.3
+tt5362988,Wind River,movie,"Crime, Drama, Mystery",7.7,291357.0,2017.0,7.4,7.9
+tt0053291,Some Like It Hot,movie,"Comedy, Music, Romance",8.2,291157.0,1959.0,7.9,8.6
+tt0257044,Road to Perdition,movie,"Crime, Drama, Thriller",7.7,290401.0,2002.0,7.5,7.5
+tt0486655,Stardust,movie,"Adventure, Fantasy, Romance",7.6,290042.0,2007.0,7.3,7.6
+tt0111503,True Lies,movie,"Action, Comedy, Thriller",7.3,288570.0,1994.0,7.1,7.9
+tt0118749,Boogie Nights,movie,Drama,7.9,288500.0,1997.0,7.2,7.4
+tt0070735,The Sting,movie,"Comedy, Crime, Drama",8.3,286857.0,1973.0,8.1,8.4
+tt0803096,Warcraft,movie,"Action, Adventure, Fantasy",6.7,286430.0,2016.0,6.8,8.8
+tt0795421,Mamma Mia!,movie,"Comedy, Musical, Romance",6.5,286174.0,2008.0,6.6,7.4
+tt0368447,The Village,movie,"Drama, Mystery, Thriller",6.6,285744.0,2004.0,6.2,6.8
+tt0083944,First Blood,movie,"Action, Adventure, Thriller",7.7,284990.0,1982.0,7.4,7.9
+tt0432348,Saw II,movie,"Horror, Mystery",6.6,284676.0,2005.0,6.4,7.8
+tt0093409,Lethal Weapon,movie,"Action, Crime, Thriller",7.6,283901.0,1987.0,7.6,7.2
+tt0286716,Hulk,movie,"Action, Sci-Fi",5.6,283388.0,2003.0,5.7,6.3
+tt0215750,Enemy at the Gates,movie,"Action, Drama, War",7.5,282911.0,2001.0,7.9,8.2
+tt0075686,Annie Hall,movie,"Comedy, Romance",7.9,282203.0,1977.0,7.7,8.5
+tt0432283,Fantastic Mr. Fox,movie,"Adventure, Animation, Comedy",7.9,281016.0,2009.0,7.6,8.4
+tt0221027,Blow,movie,"Biography, Crime, Drama",7.5,279871.0,2001.0,7.8,7.8
+tt0327597,Coraline,movie,"Animation, Drama, Family",7.8,279287.0,2009.0,7.5,7.9
+tt0072890,Dog Day Afternoon,movie,"Biography, Crime, Drama",8.0,279219.0,1975.0,7.7,8.7
+tt0363547,Dawn of the Dead,movie,Horror,7.2,278939.0,2004.0,6.3,7.3
+tt0252866,American Pie 2,movie,Comedy,6.4,275860.0,2001.0,6.7,6.9
+tt0309698,Identity,movie,"Mystery, Thriller",7.3,275699.0,2003.0,7.2,8.3
+tt0113189,GoldenEye,movie,"Action, Adventure, Thriller",7.2,275483.0,1995.0,7.1,7.4
+tt0119643,Meet Joe Black,movie,"Drama, Fantasy, Romance",7.2,274646.0,1998.0,7.6,7.7
+tt0082096,Das Boot,movie,"Drama, War",8.4,274630.0,1981.0,7.8,8.9
+tt0087800,A Nightmare on Elm Street,movie,Horror,7.4,274217.0,1984.0,6.0,7.1
+tt1564367,Just Go with It,movie,"Comedy, Romance",6.4,274126.0,2011.0,6.8,5.85
+tt0448134,Sunshine,movie,"Sci-Fi, Thriller",7.2,273621.0,2007.0,6.7,6.7
+tt0364725,Dodgeball: A True Underdog Story,movie,"Comedy, Sport",6.7,273532.0,2004.0,5.9,6.1
+tt0118688,Batman & Robin,movie,"Action, Sci-Fi",3.8,273513.0,1997.0,4.8,6.0
+tt0497465,Vicky Cristina Barcelona,movie,"Comedy, Drama, Romance",7.1,272960.0,2008.0,7.0,7.7
+tt1080016,Ice Age: Dawn of the Dinosaurs,movie,"Adventure, Animation, Comedy",6.9,272287.0,2009.0,7.0,8.3
+tt0112462,Batman Forever,movie,"Action, Adventure",5.4,272014.0,1995.0,6.1,6.5
+tt0243155,Bridget Jones's Diary,movie,"Comedy, Drama, Romance",6.8,271737.0,2001.0,6.9,7.5
+tt0059742,The Sound of Music,movie,"Biography, Drama, Family",8.1,271370.0,1965.0,7.9,8.9
+tt0358273,Walk the Line,movie,"Biography, Drama, Music",7.8,271327.0,2005.0,7.6,7.7
+tt0478087,21,movie,"Crime, Drama, Thriller",6.8,271109.0,2008.0,7.2,6.6
+tt0080339,Airplane!,movie,Comedy,7.7,269779.0,1980.0,7.0,7.6
+tt0824747,Changeling,movie,"Biography, Crime, Drama",7.7,269046.0,2008.0,7.8,8.2
+tt0045152,Singin' in the Rain,movie,"Comedy, Musical, Romance",8.3,269033.0,1952.0,7.9,8.9
+tt1032755,RocknRolla,movie,"Action, Crime, Thriller",7.2,268878.0,2008.0,7.3,7.3
+tt0479884,Crank,movie,"Action, Crime, Thriller",6.9,268836.0,2006.0,7.0,7.4
+tt0765443,Eastern Promises,movie,"Crime, Drama, Thriller",7.6,267875.0,2007.0,7.1,7.3
+tt0844471,Cloudy with a Chance of Meatballs,movie,"Adventure, Animation, Comedy",6.9,267768.0,2009.0,6.4,7.5
+tt1325004,The Twilight Saga: Eclipse,movie,"Action, Adventure, Drama",5.1,267366.0,2010.0,5.7,8.4
+tt0080678,The Elephant Man,movie,"Biography, Drama",8.2,266854.0,1980.0,7.8,8.0
+tt0976051,The Reader,movie,"Drama, Mystery, Romance",7.6,266126.0,2008.0,7.8,8.4
+tt0092890,Dirty Dancing,movie,"Drama, Music, Romance",7.1,265593.0,1987.0,7.4,7.7
+tt0057115,The Great Escape,movie,"Adventure, Drama, Thriller",8.2,265380.0,1963.0,7.8,8.1
+tt0985699,Valkyrie,movie,"Drama, History, Thriller",7.1,264520.0,2008.0,6.8,7.0
+tt0120660,Enemy of the State,movie,"Action, Thriller",7.3,264509.0,1998.0,7.6,7.9
+tt0825232,The Bucket List,movie,"Adventure, Comedy, Drama",7.4,264491.0,2007.0,7.6,8.3
+tt0107818,Philadelphia,movie,Drama,7.7,264254.0,1993.0,7.9,8.5
+tt1442449,Spartacus,tvSeries,"Action, Adventure, Biography",8.5,263689.0,2010.0,6.9,7.4
+tt0119282,Hercules,movie,"Action, Adventure, Animation",7.3,263680.0,1997.0,5.8,7.7
+tt5442430,Life,movie,"Horror, Sci-Fi, Thriller",6.6,263623.0,2017.0,6.3,4.45
+tt0486822,Disturbia,movie,"Crime, Drama, Mystery",6.8,263337.0,2007.0,7.0,6.5
+tt2660888,Star Trek Beyond,movie,"Action, Adventure, Sci-Fi",7.0,262881.0,2016.0,6.6,6.55
+tt1179904,Paranormal Activity,movie,"Horror, Mystery",6.3,262760.0,2007.0,6.2,6.2
+tt2704998,Game Night,movie,"Action, Adventure, Comedy",6.9,262354.0,2018.0,6.4,5.8
+tt1148204,Orphan,movie,"Horror, Mystery, Thriller",7.0,262020.0,2009.0,7.1,7.9
+tt2582782,Hell or High Water,movie,"Crime, Drama, Thriller",7.6,261109.0,2016.0,7.1,8.0
+tt4630562,The Fate of the Furious,movie,"Action, Crime, Thriller",6.6,260940.0,2017.0,6.9,5.65
+tt0399146,A History of Violence,movie,"Action, Crime, Drama",7.4,260874.0,2005.0,7.0,7.4
+tt0250494,Legally Blonde,movie,"Comedy, Romance",6.5,260670.0,2001.0,6.1,7.2
+tt0898367,The Road,movie,"Drama, Thriller",7.2,260510.0,2009.0,7.1,7.8
+tt1324999,The Twilight Saga: Breaking Dawn - Part 1,movie,"Adventure, Drama, Fantasy",4.9,260233.0,2011.0,5.7,8.5
+tt0052618,Ben-Hur,movie,"Adventure, Drama",8.1,259909.0,1959.0,7.7,8.4
+tt0108550,What's Eating Gilbert Grape,movie,Drama,7.7,259587.0,1993.0,7.8,8.6
+tt0087363,Gremlins,movie,"Comedy, Fantasy, Horror",7.3,259123.0,1984.0,6.1,7.0
+tt0163978,The Beach,movie,"Adventure, Drama, Romance",6.6,258902.0,2000.0,6.8,7.4
+tt0116483,Happy Gilmore,movie,"Comedy, Sport",7.0,258635.0,1996.0,6.5,6.9
+tt0259324,Ghost Rider,movie,"Action, Fantasy, Thriller",5.3,258243.0,2007.0,6.3,6.2
+tt0134119,The Talented Mr. Ripley,movie,"Crime, Drama, Thriller",7.4,257976.0,1999.0,7.4,8.1
+tt0112697,Clueless,movie,"Comedy, Romance",6.9,257971.0,1995.0,6.4,6.8
+tt0110632,Natural Born Killers,movie,"Crime, Romance",7.2,257614.0,1994.0,7.6,8.4
+tt2321549,The Babadook,movie,"Drama, Horror, Mystery",6.8,257297.0,2014.0,6.0,5.05
+tt5109784,Mother!,movie,"Drama, Horror, Mystery",6.6,256875.0,2017.0,6.2,4.55
+tt3741834,Lion,movie,"Biography, Drama",8.0,256765.0,2016.0,7.7,4.7
+tt0435625,The Descent,movie,"Adventure, Horror, Thriller",7.2,256540.0,2005.0,6.3,7.6
+tt0183505,"Me, Myself & Irene",movie,Comedy,6.6,256349.0,2000.0,6.4,6.8
+tt0479952,Madagascar: Escape 2 Africa,movie,"Adventure, Animation, Comedy",6.6,255823.0,2008.0,7.1,7.4
+tt0335345,The Passion of the Christ,movie,Drama,7.2,255670.0,2004.0,7.4,7.7
+tt0120855,Tarzan,movie,"Adventure, Animation, Comedy",7.3,255449.0,1999.0,5.2,7.3
+tt0338348,The Polar Express,movie,"Adventure, Animation, Comedy",6.6,255263.0,2004.0,6.6,7.4
+tt0117381,Primal Fear,movie,"Crime, Drama, Mystery",7.7,255250.0,1996.0,7.9,8.2
+tt0813715,Heroes,tvSeries,"Crime, Drama, Fantasy",7.5,254974.0,2006.0,6.3,8.3
+tt0144117,The Boondock Saints,movie,"Action, Crime, Thriller",7.6,254747.0,1999.0,7.8,8.0
+tt0436992,Doctor Who,tvSeries,"Adventure, Drama, Sci-Fi",8.5,254315.0,2005.0,6.5,8.2
+tt0087538,The Karate Kid,movie,"Action, Drama, Family",7.3,254195.0,1984.0,6.6,6.6
+tt0448011,Knowing,movie,"Mystery, Sci-Fi, Thriller",6.2,253303.0,2009.0,6.6,6.6
+tt0123755,Cube,movie,"Horror, Mystery, Sci-Fi",7.1,253230.0,1997.0,4.1,8.1
+tt1959563,The Hitman's Bodyguard,movie,"Action, Comedy, Crime",6.9,253229.0,2017.0,7.2,6.5
+tt0414993,The Fountain,movie,"Drama, Mystery, Romance",7.2,251730.0,2006.0,7.3,7.0
+tt0098635,When Harry Met Sally...,movie,"Comedy, Drama, Romance",7.7,251716.0,1989.0,7.3,8.1
+tt0384537,Silent Hill,movie,"Horror, Mystery",6.5,250383.0,2006.0,6.6,7.2
+tt0485947,Mr. Nobody,movie,"Drama, Fantasy, Romance",7.7,250149.0,2009.0,7.4,7.1
+tt5580036,"I, Tonya",movie,"Biography, Comedy, Drama",7.5,249985.0,2017.0,7.4,7.95
+tt0116996,Mars Attacks!,movie,"Comedy, Sci-Fi",6.4,249899.0,1996.0,5.5,7.3
+tt0117509,Romeo + Juliet,movie,"Drama, Romance",6.7,249632.0,1996.0,6.8,7.0
+tt0462499,Rambo,movie,"Action, Thriller",7.0,249012.0,2008.0,6.8,6.8
+tt0108399,True Romance,movie,"Crime, Drama, Romance",7.9,248946.0,1993.0,7.5,7.9
+tt0315733,21 Grams,movie,"Crime, Drama, Thriller",7.6,248832.0,2003.0,7.6,8.0
+tt0299658,Chicago,movie,"Comedy, Crime, Musical",7.2,248141.0,2002.0,7.4,8.1
+tt0265208,The Girl Next Door,movie,"Comedy, Drama, Romance",6.7,247962.0,2004.0,7.0,6.7
+tt4196776,Jason Bourne,movie,"Action, Thriller",6.6,247893.0,2016.0,6.5,7.0
+tt0983193,The Adventures of Tintin,movie,"Action, Adventure, Animation",7.3,247395.0,2011.0,7.0,8.1
+tt0094737,Big,movie,"Comedy, Drama, Fantasy",7.3,247367.0,1988.0,6.7,7.8
+tt0266915,Rush Hour 2,movie,"Action, Comedy, Crime",6.7,246316.0,2001.0,7.2,6.5
+tt0296572,The Chronicles of Riddick,movie,"Action, Adventure, Sci-Fi",6.6,246153.0,2004.0,7.3,6.9
+tt0032553,The Great Dictator,movie,"Comedy, Drama, War",8.4,245987.0,1940.0,8.0,8.9
+tt0100157,Misery,movie,"Drama, Thriller",7.8,245716.0,1990.0,7.6,8.2
+tt0043014,Sunset Boulevard,movie,"Drama, Film-Noir",8.4,245574.0,1950.0,8.1,8.6
+tt0063522,Rosemary's Baby,movie,"Drama, Horror",8.0,245286.0,1968.0,7.7,7.9
+tt0408306,Munich,movie,"Drama, History, Thriller",7.5,244979.0,2005.0,7.4,7.6
+tt0099653,Ghost,movie,"Drama, Fantasy, Romance",7.1,244439.0,1990.0,7.3,8.0
+tt0374900,Napoleon Dynamite,movie,Comedy,7.0,244362.0,2004.0,6.5,7.6
+tt0311113,Master and Commander: The Far Side of the World,movie,"Action, Adventure, Drama",7.5,244040.0,2003.0,7.2,7.2
+tt0758774,Body of Lies,movie,"Action, Drama, Thriller",7.0,243431.0,2008.0,7.2,6.8
+tt0117665,Sleepers,movie,"Crime, Drama, Thriller",7.5,242901.0,1996.0,7.9,7.7
+tt0083987,Gandhi,movie,"Biography, Drama, History",8.0,242572.0,1982.0,7.6,8.5
+tt0187738,Blade II,movie,"Action, Horror, Sci-Fi",6.7,242008.0,2002.0,6.9,6.9
+tt0376541,Closer,movie,"Drama, Romance",7.2,241840.0,2004.0,7.2,7.7
+tt0373469,Kiss Kiss Bang Bang,movie,"Comedy, Crime, Mystery",7.5,241308.0,2005.0,6.9,7.2
+tt2334879,White House Down,movie,"Action, Drama, Thriller",6.3,241233.0,2013.0,6.4,6.95
+tt0117998,Twister,movie,"Action, Adventure, Thriller",6.5,241016.0,1996.0,6.5,7.1
+tt0142342,Big Daddy,movie,"Comedy, Drama",6.4,240358.0,1999.0,6.9,7.5
+tt0083907,The Evil Dead,movie,Horror,7.4,240060.0,1981.0,6.7,7.3
+tt2883512,Chef,movie,"Adventure, Comedy, Drama",7.3,239345.0,2014.0,6.8,7.5
+tt0112281,Ace Ventura: When Nature Calls,movie,"Adventure, Comedy, Crime",6.4,239279.0,1995.0,6.5,7.0
+tt0050212,The Bridge on the River Kwai,movie,"Adventure, Drama, War",8.1,239236.0,1957.0,7.6,8.1
+tt0129167,The Iron Giant,movie,"Action, Adventure, Animation",8.1,239199.0,1999.0,7.7,8.6
+tt0420223,Stranger Than Fiction,movie,"Comedy, Drama, Fantasy",7.5,239184.0,2006.0,7.2,7.8
+tt0210945,Remember the Titans,movie,"Biography, Comedy, Drama",7.8,237888.0,2000.0,7.8,8.5
+tt0106519,Carlito's Way,movie,"Crime, Drama, Thriller",7.9,237704.0,1993.0,8.0,8.5
+tt0079817,Rocky II,movie,"Drama, Sport",7.3,237500.0,1979.0,7.5,7.6
+tt2719848,Everest,movie,"Adventure, Biography, Drama",7.1,237442.0,2015.0,7.3,5.55
+tt0138097,Shakespeare in Love,movie,"Comedy, Drama, History",7.1,237424.0,1998.0,7.0,7.3
+tt0212346,Miss Congeniality,movie,"Action, Comedy, Crime",6.3,236841.0,2000.0,6.4,6.7
+tt0133152,Planet of the Apes,movie,"Action, Adventure, Sci-Fi",5.7,236770.0,2001.0,6.0,6.7
+tt0079501,Mad Max,movie,"Action, Adventure, Sci-Fi",6.8,235997.0,1979.0,6.9,6.9
+tt0397892,Bolt,movie,"Adventure, Animation, Comedy",6.8,235983.0,2008.0,6.7,7.4
+tt0479143,Rocky Balboa,movie,"Drama, Sport",7.1,235619.0,2006.0,7.1,7.6
+tt0128853,You've Got Mail,movie,"Comedy, Drama, Romance",6.7,235376.0,1998.0,6.8,7.6
+tt1142988,The Ugly Truth,movie,"Comedy, Romance",6.4,234598.0,2009.0,6.9,6.7
+tt0067992,Willy Wonka & the Chocolate Factory,movie,"Adventure, Comedy, Family",7.8,234389.0,1971.0,7.1,7.4
+tt1124035,The Ides of March,movie,"Drama, Thriller",7.1,233928.0,2011.0,7.0,3.1
+tt0120917,The Emperor's New Groove,movie,"Adventure, Animation, Comedy",7.4,233721.0,2000.0,7.4,7.7
+tt0287978,Daredevil,movie,"Action, Crime",5.3,233637.0,2003.0,5.7,5.8
+tt0246460,Die Another Day,movie,"Action, Adventure, Thriller",6.1,233033.0,2002.0,6.8,6.9
+tt0120655,Dogma,movie,"Adventure, Comedy, Drama",7.3,232729.0,1999.0,7.0,7.2
+tt1365519,Tomb Raider,movie,"Action, Adventure, Fantasy",6.3,232580.0,2018.0,6.0,2.4
+tt0089927,Rocky IV,movie,"Drama, Sport",6.9,232573.0,1985.0,7.3,7.1
+tt0416320,Match Point,movie,"Drama, Romance, Thriller",7.6,232091.0,2005.0,7.4,7.9
+tt1219827,Ghost in the Shell,movie,"Action, Crime, Drama",6.3,232043.0,2017.0,6.4,4.1
+tt0425061,Get Smart,movie,"Action, Adventure, Comedy",6.5,231911.0,2008.0,6.2,6.8
+tt0892791,Shrek Forever After,movie,"Adventure, Animation, Comedy",6.3,231577.0,2010.0,6.6,6.8
+tt0097428,Ghostbusters II,movie,"Action, Comedy, Fantasy",6.6,231385.0,1989.0,6.7,6.5
+tt0427944,Thank You for Smoking,movie,"Comedy, Drama",7.5,231375.0,2005.0,7.0,7.9
+tt0499448,The Chronicles of Narnia: Prince Caspian,movie,"Action, Adventure, Family",6.5,230521.0,2008.0,6.8,6.6
+tt0064115,Butch Cassidy and the Sundance Kid,movie,"Biography, Crime, Drama",8.0,230264.0,1969.0,7.8,8.7
+tt1216475,Cars 2,movie,"Adventure, Animation, Comedy",6.2,230207.0,2011.0,6.6,8.1
+tt0094898,Coming to America,movie,"Comedy, Romance",7.1,229774.0,1988.0,6.7,6.9
+tt0195685,Erin Brockovich,movie,"Biography, Drama",7.5,229530.0,2000.0,7.6,8.0
+tt0356150,EuroTrip,movie,Comedy,6.6,228953.0,2004.0,6.9,7.1
+tt0959337,Revolutionary Road,movie,"Drama, Romance",7.3,228734.0,2008.0,7.2,7.9
+tt0207201,What Women Want,movie,"Comedy, Fantasy, Romance",6.5,228486.0,2000.0,6.8,6.9
+tt4555426,Darkest Hour,movie,"Drama, War",7.4,227634.0,2017.0,7.0,9.0
+tt0295178,Austin Powers in Goldmember,movie,"Action, Adventure, Comedy",6.2,227201.0,2002.0,5.4,6.3
+tt0103772,Basic Instinct,movie,"Drama, Mystery, Thriller",7.1,227182.0,1992.0,7.3,7.5
+tt1077258,Planet Terror,movie,"Action, Comedy, Horror",7.0,226996.0,2007.0,6.5,7.5
+tt1132620,The Girl with the Dragon Tattoo,movie,"Crime, Drama, Mystery",7.8,225662.0,2009.0,7.7,7.2
+tt0333766,Garden State,movie,"Comedy, Drama, Romance",7.4,225555.0,2004.0,7.2,7.8
+tt0281358,A Walk to Remember,movie,"Drama, Romance",7.3,225287.0,2002.0,7.5,7.7
+tt0488120,Fracture,movie,"Crime, Drama, Thriller",7.2,224816.0,2007.0,7.6,7.3
+tt0101540,Cape Fear,movie,"Crime, Thriller",7.3,223725.0,1991.0,7.2,7.3
+tt0181865,Traffic,movie,"Crime, Drama, Thriller",7.6,223308.0,2000.0,7.3,7.6
+tt0146316,Lara Croft: Tomb Raider,movie,"Action, Adventure, Fantasy",5.8,223120.0,2001.0,6.4,6.8
+tt0050825,Paths of Glory,movie,"Drama, War",8.4,222907.0,1957.0,8.0,8.3
+tt0096438,Who Framed Roger Rabbit,movie,"Adventure, Animation, Comedy",7.7,222859.0,1988.0,7.1,7.4
+tt1127180,Drag Me to Hell,movie,Horror,6.6,222597.0,2009.0,5.4,6.4
+tt0090756,Blue Velvet,movie,"Crime, Drama, Mystery",7.7,222591.0,1986.0,7.5,7.5
+tt0452608,Death Race,movie,"Action, Sci-Fi, Thriller",6.4,222490.0,2008.0,6.9,7.1
+tt0974661,17 Again,movie,"Comedy, Drama, Fantasy",6.4,221992.0,2009.0,6.2,7.3
+tt0461770,Enchanted,movie,"Adventure, Animation, Comedy",7.1,221726.0,2007.0,6.4,7.0
+tt0086960,Beverly Hills Cop,movie,"Action, Comedy, Crime",7.4,221357.0,1984.0,7.3,6.5
+tt0328828,American Wedding,movie,Comedy,6.3,221314.0,2003.0,6.7,6.9
+tt0838221,The Darjeeling Limited,movie,"Adventure, Comedy, Drama",7.2,221275.0,2007.0,7.0,7.6
+tt0949731,The Happening,movie,"Adventure, Drama, Sci-Fi",5.0,221157.0,2008.0,5.3,5.9
+tt5074352,Dangal,movie,"Action, Biography, Drama",8.3,221108.0,2016.0,7.9,9.85
+tt0431308,P.S. I Love You,movie,"Comedy, Drama, Romance",7.0,221056.0,2007.0,7.4,8.1
+tt0172493,"Girl, Interrupted",movie,"Biography, Drama",7.3,220472.0,1999.0,7.9,8.4
+tt0099810,The Hunt for Red October,movie,"Action, Adventure, Thriller",7.5,220368.0,1990.0,7.7,7.6
+tt1155056,"I Love You, Man",movie,"Comedy, Romance",7.0,220287.0,2009.0,6.4,7.1
+tt0275847,Lilo & Stitch,movie,"Adventure, Animation, Comedy",7.3,220273.0,2002.0,7.3,7.7
+tt0117705,Space Jam,movie,"Adventure, Animation, Comedy",6.5,219672.0,1996.0,6.9,6.8
+tt0080455,The Blues Brothers,movie,"Adventure, Comedy, Crime",7.9,219651.0,1980.0,7.6,8.5
+tt0388482,Transporter 2,movie,"Action, Thriller",6.3,219358.0,2005.0,7.1,7.1
+tt0120082,Scream 2,movie,"Horror, Mystery",6.3,219311.0,1997.0,6.2,6.5
+tt1255953,Incendies,movie,"Drama, Mystery, War",8.3,219203.0,2010.0,8.1,9.1
+tt0158983,"South Park: Bigger, Longer & Uncut",movie,"Animation, Comedy, Fantasy",7.7,218824.0,1999.0,7.2,8.5
+tt0960144,You Don't Mess with the Zohan,movie,"Action, Comedy",5.6,218781.0,2008.0,6.2,6.1
+tt0109506,The Crow,movie,"Action, Crime, Drama",7.5,218433.0,1994.0,7.3,7.3
+tt1078912,Night at the Museum: Battle of the Smithsonian,movie,"Adventure, Comedy, Family",6.0,218376.0,2009.0,6.3,6.7
+tt1340800,Tinker Tailor Soldier Spy,movie,"Drama, Mystery, Thriller",7.0,217546.0,2011.0,7.1,7.95
+tt0118929,Dark City,movie,"Fantasy, Mystery, Sci-Fi",7.6,217384.0,1998.0,6.6,7.9
+tt0120630,Chicken Run,movie,"Adventure, Animation, Comedy",7.1,217100.0,2000.0,6.2,7.3
+tt1046173,G.I. Joe: The Rise of Cobra,movie,"Action, Adventure, Sci-Fi",5.7,217077.0,2009.0,6.2,7.3
+tt0084602,Rocky III,movie,"Drama, Sport",6.8,216959.0,1982.0,7.2,7.3
+tt3532216,American Made,movie,"Action, Comedy, Crime",7.1,216368.0,2017.0,7.0,5.45
+tt0481369,The Number 23,movie,"Crime, Mystery, Thriller",6.4,215834.0,2007.0,7.0,6.5
+tt0074285,Carrie,movie,"Horror, Mystery",7.4,215581.0,1976.0,5.5,7.6
+tt0118571,Air Force One,movie,"Action, Crime, Drama",6.5,215535.0,1997.0,6.4,7.3
+tt0114898,Waterworld,movie,"Action, Adventure, Sci-Fi",6.3,215504.0,1995.0,6.8,6.8
+tt2334873,Blue Jasmine,movie,"Comedy, Drama, Romance",7.3,215191.0,2013.0,6.9,7.1
+tt1655441,The Age of Adaline,movie,"Drama, Fantasy, Romance",7.2,215077.0,2015.0,7.2,3.2
+tt0088846,Brazil,movie,"Drama, Sci-Fi, Thriller",7.8,214822.0,1985.0,7.6,8.5
+tt0362270,The Life Aquatic with Steve Zissou,movie,"Action, Adventure, Comedy",7.2,214363.0,2004.0,7.0,7.9
+tt0318627,Resident Evil: Apocalypse,movie,"Action, Horror, Sci-Fi",6.1,214046.0,2004.0,6.7,7.4
+tt0363988,Secret Window,movie,"Drama, Mystery, Thriller",6.5,214022.0,2004.0,7.1,7.1
+tt0308644,Finding Neverland,movie,"Biography, Drama, Family",7.7,213957.0,2004.0,7.6,7.7
+tt0102798,Robin Hood: Prince of Thieves,movie,"Action, Adventure, Drama",6.9,213692.0,1991.0,7.2,7.1
+tt0106856,Falling Down,movie,"Crime, Drama, Thriller",7.6,213641.0,1993.0,7.7,8.0
+tt0143145,The World Is Not Enough,movie,"Action, Adventure, Thriller",6.4,213481.0,1999.0,7.0,7.0
+tt0418763,Jarhead,movie,"Biography, Drama, War",7.0,213209.0,2005.0,7.3,7.2
+tt0094012,Spaceballs,movie,"Adventure, Comedy, Sci-Fi",7.1,212796.0,1987.0,6.5,6.6
+tt0401855,Underworld: Evolution,movie,"Action, Fantasy, Thriller",6.7,212619.0,2006.0,7.2,7.1
+tt0094625,Akira,movie,"Animation, Drama, Fantasy",8.0,212478.0,1988.0,6.7,8.3
+tt2406566,Atomic Blonde,movie,"Action, Thriller",6.7,212235.0,2017.0,6.5,6.2
+tt0477080,Unstoppable,movie,"Action, Thriller",6.8,211873.0,2010.0,6.9,8.1
+tt0139134,Cruel Intentions,movie,"Drama, Romance",6.8,211630.0,1999.0,6.6,6.8
+tt0371724,The Hitchhiker's Guide to the Galaxy,movie,"Adventure, Comedy, Sci-Fi",6.7,211321.0,2005.0,6.7,8.1
+tt0091064,The Fly,movie,"Drama, Horror, Sci-Fi",7.6,211278.0,1986.0,7.1,7.2
+tt0056869,The Birds,movie,"Drama, Horror, Mystery",7.6,210940.0,1963.0,7.5,8.0
+tt0102685,Point Break,movie,"Action, Crime, Thriller",7.3,210423.0,1991.0,7.1,7.4
+tt1458175,The Next Three Days,movie,"Action, Crime, Drama",7.3,210212.0,2010.0,7.4,7.65
+tt0111282,Stargate,movie,"Action, Adventure, Sci-Fi",7.0,210174.0,1994.0,6.5,7.3
+tt0366551,Harold & Kumar Go to White Castle,movie,"Adventure, Comedy",7.0,209905.0,2004.0,7.1,7.2
+tt0375063,Sideways,movie,"Comedy, Drama, Romance",7.5,209186.0,2004.0,6.9,7.9
+tt0432021,Resident Evil: Extinction,movie,"Action, Horror, Sci-Fi",6.2,209173.0,2007.0,6.7,6.9
+tt0120347,Tomorrow Never Dies,movie,"Action, Adventure, Thriller",6.5,208444.0,1997.0,7.0,7.0
+tt1606389,The Vow,movie,"Drama, Romance",6.8,208297.0,2012.0,7.2,4.65
+tt0114148,Pocahontas,movie,"Adventure, Animation, Drama",6.7,208226.0,1995.0,7.5,7.6
+tt0183790,A Knight's Tale,movie,"Action, Adventure, Romance",7.0,207832.0,2001.0,6.9,7.1
+tt0058150,Goldfinger,movie,"Action, Adventure, Thriller",7.7,207446.0,1964.0,7.4,7.1
+tt0120685,Godzilla,movie,"Action, Sci-Fi, Thriller",5.5,207333.0,1998.0,6.0,6.8
+tt0268126,Adaptation.,movie,"Comedy, Drama",7.7,207093.0,2002.0,6.9,7.5
+tt0116209,The English Patient,movie,"Drama, Romance, War",7.4,207028.0,1996.0,7.4,8.4
+tt0113247,La haine,movie,"Crime, Drama",8.1,206687.0,1995.0,7.9,8.4
+tt0985694,Machete,movie,"Action, Crime, Thriller",6.6,206269.0,2010.0,6.4,9.1
+tt0756683,The Man from Earth,movie,"Drama, Fantasy, Mystery",7.8,206144.0,2007.0,7.2,8.4
+tt0106677,Dazed and Confused,movie,Comedy,7.6,205599.0,1993.0,6.8,7.6
+tt0241303,Chocolat,movie,"Drama, Romance",7.2,205364.0,2000.0,6.8,7.9
+tt0053604,The Apartment,movie,"Comedy, Drama, Romance",8.3,205163.0,1960.0,7.8,8.5
